@@ -1,0 +1,111 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Montserrat", sans-serif;
+}
+
+body {
+  background-color: #e9e9ea;
+  font-family: "Montserrat", sans-serif;
+
+}
+
+.bodyBG {
+  background-color: #fdfdfd;
+
+}
+
+.bg {
+  background-color: #526AC2;
+}
+
+.bg-border {
+  border-color: #526AC2;
+}
+
+
+.uniqueDiv {
+  height: 640px;
+  width: 100%;
+  background-color: #526AC2;
+  clip-path: polygon(33% 0%, 100% 0%, 100% 100%, 0.3% 100%, 0.4% 99%, 0.5% 98%, 0.65% 100%, 0.4% 97%, 0.7% 100%, 0% 100%, 0% 92%, 0.2% 91%, 27% 7%, 28% 4%, 28.5% 3%, 30% 1%, 32% 0%, 32% 0%);
+}
+
+.freedokaFont {
+  font-family: "Fredoka", sans-serif;
+}
+
+.border {
+  border: 2px solid red;
+}
+
+.mySwiper {
+  width: 380px;
+  height: 730px;
+}
+
+.bg-gray {
+  background-color: #B4C0CE;
+  /* transform: rotate(); */
+}
+
+.text-color {
+  color: #e9e9ea;
+}
+
+.text-color2 {
+  color: #526AC2;
+}
+
+.text-color2-bg {
+  background-color: #2A2C38;
+}
+
+.textColor-bg {
+  background-color: #e9e9ea;
+}
+
+.item-card-text-side-bg {
+  background-color: #ababac;
+}
+
+.tooltip {
+  position: relative;
+  display: inline-block;
+}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  background-color: #526AC2;
+  color: #fff;
+  text-align: center;
+  font-weight: bold;
+  padding: 5px 0;
+  border-radius: 6px;
+  transition: all 0.1s ease-in-out;
+
+  position: absolute;
+  top: -110%;
+  left: -100%;
+  z-index: 1;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+}
+
+@media only screen and (max-width: 600px) {
+  .uniqueDiv {
+    height: 400px;
+    width: 100%;
+  }
+}

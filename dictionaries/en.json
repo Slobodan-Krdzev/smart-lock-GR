@@ -1,0 +1,15 @@
+{
+  "navigation": {
+    "home": "Home",
+    "about": "About"
+  },
+    "page": {
+      "home": {
+        "title": "Smart",
+        "title2": "Lock"
+
+      }
+    },
+    "footer": {
+    }
+  }
