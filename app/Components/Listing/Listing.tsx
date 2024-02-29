@@ -9,32 +9,32 @@ export const locks: LockType[] = [
     image: "https://i.imgur.com/lhgXnJf.png",
     desc: [
       {
-        title: "Отисок На Прсти",
+        title: "Δακτυλικά αποτυπώματα",
         titleEng: "Fingerprint",
         icon: "https://i.imgur.com/GGw1TVs.png",
       },
       {
-        title: "Лозинки",
+        title: "Κωδικοί πρόσβασης",
         titleEng: "Passcode",
         icon: "https://i.imgur.com/CfCdiEW.png",
       },
       {
-        title: "Механички Клуч",
+        title: "Μηχανικό κλειδί",
         titleEng: "Mechanical Key",
         icon: "https://i.imgur.com/wq47S5y.png",
       },
       {
-        title: "Ваша Smart Апликација",
+        title: "Δική σας Smart APP",
         titleEng: "Tuya Smart App",
         icon: "https://i.imgur.com/Ye1Odnj.png",
       },
       {
-        title: "NFC Картичка",
+        title: "Κάρτα NFC",
         titleEng: "NFC Card",
         icon: "https://i.imgur.com/eSGcUPE.png",
       },
       {
-        title: "Подсетник за замена на батерија",
+        title: "Υπενθύμιση χαμηλής μπαταρίας",
         titleEng: "Low Battery Reminder",
         icon: "https://i.imgur.com/GrNGYiM.png",
       },
@@ -43,45 +43,45 @@ export const locks: LockType[] = [
   {
     id: 2,
     title: "CJ001",
-    image: "https://i.imgur.com/VHKnCrA.png",
+    image: "https://i.imgur.com/y20I0tw.png",
     desc: [
       {
-        title: "Отисок На Прсти",
+        title: "Δακτυλικά αποτυπώματα",
         titleEng: "Fingerprint",
         icon: "https://i.imgur.com/GGw1TVs.png",
       },
       {
-        title: "Лозинки",
+        title: "Κωδικοί πρόσβασης",
         titleEng: "Passcode",
         icon: "https://i.imgur.com/CfCdiEW.png",
       },
       {
-        title: "Механички Клуч",
+        title: "Μηχανικό κλειδί",
         titleEng: "Mechanical Key",
         icon: "https://i.imgur.com/wq47S5y.png",
       },
       {
-        title: "Ваша Smart Апликација",
+        title: "Δική σας Smart APP",
         titleEng: "Tuya Smart App",
         icon: "https://i.imgur.com/Ye1Odnj.png",
       },
       {
-        title: "NFC Картичка",
+        title: "Κάρτα NFC",
         titleEng: "NFC Card",
         icon: "https://i.imgur.com/eSGcUPE.png",
       },
       {
-        title: "Тивок Режим",
+        title: "Αθόρυβη λειτουργία",
         titleEng: "Silent Mode",
         icon: "https://i.imgur.com/eajB0Y8.png",
       },
       {
-        title: "Автоматско Заклучување",
+        title: "Αυτόματο κλείδωμα",
         titleEng: "Auto Lock",
         icon: "https://i.imgur.com/twMtpe6.png",
       },
       {
-        title: "Подсетник за замена на батерија",
+        title: "Υπενθύμιση χαμηλής μπαταρίας",
         titleEng: "Low Battery Reminder",
         icon: "https://i.imgur.com/GrNGYiM.png",
       },
@@ -90,40 +90,40 @@ export const locks: LockType[] = [
   {
     id: 3,
     title: "Q1 - Ball Lock",
-    image: "https://i.imgur.com/KwUljh3.png",
+    image: "https://i.imgur.com/bTof0hd.png",
     desc: [
       {
-        title: "Отисок На Прсти",
+        title: "Δακτυλικά αποτυπώματα",
         titleEng: "Fingerprint",
         icon: "https://i.imgur.com/GGw1TVs.png",
       },
       {
-        title: "Лозинки",
+        title: "Κωδικοί πρόσβασης",
         titleEng: "Passcode",
         icon: "https://i.imgur.com/CfCdiEW.png",
       },
       {
-        title: "Механички Клуч",
+        title: "Μηχανικό κλειδ",
         titleEng: "Mechanical Key",
         icon: "https://i.imgur.com/wq47S5y.png",
       },
       {
-        title: "Ваша Smart Апликација",
+        title: "Δική σας Smart APP",
         titleEng: "Tuya Smart App",
         icon: "https://i.imgur.com/Ye1Odnj.png",
       },
       {
-        title: "NFC Картичка",
+        title: "Κάρτα NFC",
         titleEng: "NFC Card",
         icon: "https://i.imgur.com/eSGcUPE.png",
       },
       {
-        title: "Автоматско Заклучување",
+        title: "Αυτόματο κλείδωμα",
         titleEng: "Auto Lock",
         icon: "https://i.imgur.com/twMtpe6.png",
       },
       {
-        title: "Подсетник за замена на батерија",
+        title: "Υπενθύμιση χαμηλής μπαταρίας",
         titleEng: "Low Battery Reminder",
         icon: "https://i.imgur.com/GrNGYiM.png",
       },
@@ -135,37 +135,37 @@ export const locks: LockType[] = [
     image: "https://i.imgur.com/hCXy2VY.png",
     desc: [
       {
-        title: "Отисок На Прсти",
+        title: "Δακτυλικά αποτυπώματα",
         titleEng: "Fingerprint",
         icon: "https://i.imgur.com/GGw1TVs.png",
       },
       {
-        title: "Лозинки",
+        title: "Κωδικοί πρόσβασης",
         titleEng: "Passcode",
         icon: "https://i.imgur.com/CfCdiEW.png",
       },
       {
-        title: "Механички Клуч",
+        title: "Μηχανικό κλειδί",
         titleEng: "Mechanical Key",
         icon: "https://i.imgur.com/wq47S5y.png",
       },
       {
-        title: "Ваша Smart Апликација",
+        title: "Δική σας Smart APP",
         titleEng: "Tuya Smart App",
         icon: "https://i.imgur.com/Ye1Odnj.png",
       },
       {
-        title: "NFC Картичка",
+        title: "Κάρτα NFC",
         titleEng: "NFC Card",
         icon: "https://i.imgur.com/eSGcUPE.png",
       },
       {
-        title: "Надворепна Хидроизолација",
+        title: "Στεγανοποίηση εξωτερικού χώρου",
         titleEng: "Waterproof",
         icon: "https://i.imgur.com/pic3npc.png",
       },
       {
-        title: "Подсетник за замена на батерија",
+        title: "Υπενθύμιση χαμηλής μπαταρίας",
         titleEng: "Low Battery Reminder",
         icon: "https://i.imgur.com/GrNGYiM.png",
       },
@@ -177,119 +177,57 @@ export const locks: LockType[] = [
     image: "https://i.imgur.com/2geCyBS.png",
     desc: [
       {
-        title: "3D Препознавање на Лице",
+        title: "3D αναγνώριση ανθρώπινου προσώπου",
         titleEng: "3D Face Recognition",
         icon: "https://i.imgur.com/NadCVxI.png",
       },
       {
-        title: "Отисок На Прсти",
+        title: "Δακτυλικό αποτύπωμα",
         titleEng: "Fingerprint",
         icon: "https://i.imgur.com/GGw1TVs.png",
       },
       {
-        title: "Лозинки",
+        title: "Κωδικός πρόσβασης",
         titleEng: "Passcode",
         icon: "https://i.imgur.com/CfCdiEW.png",
       },
       {
-        title: "Механички Клуч",
+        title: "Μηχανικό κλειδί",
         titleEng: "Mechanical Key",
         icon: "https://i.imgur.com/wq47S5y.png",
       },
       {
-        title: "Ваша Smart Апликација",
+        title: "Ξεκλείδωμα Tuya Smart APP",
         titleEng: "Tuya Smart App",
         icon: "https://i.imgur.com/Ye1Odnj.png",
       },
       {
-        title: "NFC Картичка",
+        title: "Κάρτα NFC",
         titleEng: "NFC Card",
         icon: "https://i.imgur.com/eSGcUPE.png",
       },
       {
-        title: "Фотографирање",
+        title: "Λήψη φωτογραφία",
         titleEng: "Photo",
         icon: "https://i.imgur.com/PELrmzb.png",
       },
       {
-        title: "USB приклучок за напојување за итни случаи",
+        title: "Θύρα τροφοδοσίας έκτακτης ανάγκης USB",
         titleEng: "USB power input in emergency",
         icon: "https://i.imgur.com/DYEk7z4.png",
       },
       {
-        title: "Визуелна Шпионка",
+        title: "Οπτικό ματάκι",
         titleEng: "Visual Spy",
         icon: "https://i.imgur.com/g2O8IRc.png",
       },
       {
-        title: "Далечинско Отклучување со Мобилен Телефон",
+        title: "Απομακρυσμένο ξεκλείδωμα κινητού τηλεφώνου",
         titleEng: "Remote Unlocking via Mobile Phone",
         icon: "https://i.imgur.com/8b3R4Fc.png",
       },
       {
-        title: "Подсетник за замена на батерија",
-        titleEng: "Low Battery Reminder",
-        icon: "https://i.imgur.com/GrNGYiM.png",
-      },
-    ],
-  },
-  {
-    id: 5,
-    title: "SL ID 2",
-    image: "https://i.imgur.com/NS4CUOy.png",
-    desc: [
-      {
-        title: "3D Препознавање на Лице",
-        titleEng: "3D Face Recognition",
-        icon: "https://i.imgur.com/NadCVxI.png",
-      },
-      {
-        title: "Отисок На Прсти",
-        titleEng: "Fingerprint",
-        icon: "https://i.imgur.com/GGw1TVs.png",
-      },
-      {
-        title: "Лозинки",
-        titleEng: "Passcode",
-        icon: "https://i.imgur.com/CfCdiEW.png",
-      },
-      {
-        title: "Механички Клуч",
-        titleEng: "Mechanical Key",
-        icon: "https://i.imgur.com/wq47S5y.png",
-      },
-      {
-        title: "Ваша Smart Апликација",
-        titleEng: "Tuya Smart App",
-        icon: "https://i.imgur.com/Ye1Odnj.png",
-      },
-      {
-        title: "NFC Картичка",
-        titleEng: "NFC Card",
-        icon: "https://i.imgur.com/eSGcUPE.png",
-      },
-      {
-        title: "Фотографирање",
-        titleEng: "Photo",
-        icon: "https://i.imgur.com/PELrmzb.png",
-      },
-      {
-        title: "USB приклучок за напојување за итни случаи",
-        titleEng: "USB power input in emergency",
-        icon: "https://i.imgur.com/DYEk7z4.png",
-      },
-      {
-        title: "Визуелна Шпионка",
-        titleEng: "Visual Spy",
-        icon: "https://i.imgur.com/g2O8IRc.png",
-      },
-      {
-        title: "Далечинско Отклучување со Мобилен Телефон",
-        titleEng: "Remote Unlocking via Mobile Phone",
-        icon: "https://i.imgur.com/8b3R4Fc.png",
-      },
-      {
-        title: "Подсетник за замена на батерија",
+        title: "Υπενθύμιση χαμηλής μπαταρίας",
         titleEng: "Low Battery Reminder",
         icon: "https://i.imgur.com/GrNGYiM.png",
       },
@@ -297,61 +235,123 @@ export const locks: LockType[] = [
   },
   {
     id: 6,
-    title: "SL ID 3",
-    image: "https://i.imgur.com/AWiyqrz.png",
+    title: "SL ID 2",
+    image: "https://i.imgur.com/bN0je9U.png",
     desc: [
       {
-        title: "3D Препознавање на Лице",
+        title: "3D αναγνώριση ανθρώπινου προσώπου",
         titleEng: "3D Face Recognition",
         icon: "https://i.imgur.com/NadCVxI.png",
       },
       {
-        title: "Отисок На Прсти",
+        title: "Δακτυλικό αποτύπωμα",
         titleEng: "Fingerprint",
         icon: "https://i.imgur.com/GGw1TVs.png",
       },
       {
-        title: "Лозинки",
+        title: "Κωδικός πρόσβασης",
         titleEng: "Passcode",
         icon: "https://i.imgur.com/CfCdiEW.png",
       },
       {
-        title: "Механички Клуч",
+        title: "Μηχανικό κλειδί",
         titleEng: "Mechanical Key",
         icon: "https://i.imgur.com/wq47S5y.png",
       },
       {
-        title: "Ваша Smart Апликација",
+        title: "Ξεκλείδωμα Tuya Smart APP",
         titleEng: "Tuya Smart App",
         icon: "https://i.imgur.com/Ye1Odnj.png",
       },
       {
-        title: "NFC Картичка",
+        title: "Κάρτα NFC",
         titleEng: "NFC Card",
         icon: "https://i.imgur.com/eSGcUPE.png",
       },
       {
-        title: "Фотографирање",
+        title: "Λήψη φωτογραφίας",
         titleEng: "Photo",
         icon: "https://i.imgur.com/PELrmzb.png",
       },
       {
-        title: "USB приклучок за напојување за итни случаи",
+        title: "Θύρα τροφοδοσίας έκτακτης ανάγκης USB",
         titleEng: "USB power input in emergency",
         icon: "https://i.imgur.com/DYEk7z4.png",
       },
       {
-        title: "Визуелна Шпионка",
+        title: "Οπτικό ματάκι",
         titleEng: "Visual Spy",
         icon: "https://i.imgur.com/g2O8IRc.png",
       },
       {
-        title: "Далечинско Отклучување со Мобилен Телефон",
+        title: "Ξεκλείδωμα τηλεχειριστηρίου κινητού τηλεφώνου",
         titleEng: "Remote Unlocking via Mobile Phone",
         icon: "https://i.imgur.com/8b3R4Fc.png",
       },
       {
-        title: "Подсетник за замена на батерија",
+        title: "Υπενθύμιση χαμηλής μπαταρίας",
+        titleEng: "Low Battery Reminder",
+        icon: "https://i.imgur.com/GrNGYiM.png",
+      },
+    ],
+  },
+  {
+    id: 7,
+    title: "SL ID 3",
+    image: "https://i.imgur.com/HT0Vh4e.png",
+    desc: [
+      {
+        title: "3D αναγνώριση ανθρώπινου προσώπου",
+        titleEng: "3D Face Recognition",
+        icon: "https://i.imgur.com/NadCVxI.png",
+      },
+      {
+        title: "Δακτυλικό αποτύπωμα",
+        titleEng: "Fingerprint",
+        icon: "https://i.imgur.com/GGw1TVs.png",
+      },
+      {
+        title: "Κωδικός πρόσβασης",
+        titleEng: "Passcode",
+        icon: "https://i.imgur.com/CfCdiEW.png",
+      },
+      {
+        title: "Μηχανικό κλειδί",
+        titleEng: "Mechanical Key",
+        icon: "https://i.imgur.com/wq47S5y.png",
+      },
+      {
+        title: "Ξεκλείδωμα Tuya Smart APP",
+        titleEng: "Tuya Smart App",
+        icon: "https://i.imgur.com/Ye1Odnj.png",
+      },
+      {
+        title: "Κάρτα NFC",
+        titleEng: "NFC Card",
+        icon: "https://i.imgur.com/eSGcUPE.png",
+      },
+      {
+        title: "Λήψη φωτογραφίας",
+        titleEng: "Photo",
+        icon: "https://i.imgur.com/PELrmzb.png",
+      },
+      {
+        title: "Θύρα τροφοδοσίας έκτακτης ανάγκης USB",
+        titleEng: "USB power input in emergency",
+        icon: "https://i.imgur.com/DYEk7z4.png",
+      },
+      {
+        title: "Οπτικό ματάκι",
+        titleEng: "Visual Spy",
+        icon: "https://i.imgur.com/g2O8IRc.png",
+      },
+      {
+        title: "Ξεκλείδωμα τηλεχειριστηρίου κινητού τηλεφώνο",
+        titleEng: "Remote Unlocking via Mobile Phone",
+        icon: "https://i.imgur.com/8b3R4Fc.png",
+      },
+      {
+        title: "Υπενθύμιση χαμηλής μπαταρίας",
         titleEng: "Low Battery Reminder",
         icon: "https://i.imgur.com/GrNGYiM.png",
       },
@@ -364,8 +364,6 @@ type ListingPropsType = {
 };
 
 const Listing = ({ lang }: ListingPropsType) => {
-  console.log(lang.home);
-
   return (
     <section>
       {locks.map((lock, idx: number) => (
